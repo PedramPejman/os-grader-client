@@ -6,10 +6,9 @@
 #include <string.h>
 #include <fcntl.h>
 
-#define VERBOSE 1
+#define VERBOSE 0
 
-#define server_address   "104.199.193.162"
-//#define server_address   "localhost"
+#define server_address   "35.185.24.113"
 #define port_number       31337
 
 #define INSTR            "instructor"
